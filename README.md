@@ -1,2 +1,2 @@
 # webdev252.github.io
-t
+This website is for everyone.
